@@ -1,5 +1,5 @@
 #include <iostream>
-#include <new> // 包含 std::nothrow
+#include <new> 
 using namespace std;
 
 int BiList(DataType L[], DataType item, int len){
