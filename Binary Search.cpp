@@ -1,7 +1,3 @@
-#include <iostream>
-#include <new> 
-using namespace std;
-
 int BiList(DataType L[], DataType item, int len){
     int low = 0, high = len - 1, mid;
     while(low <= high){
